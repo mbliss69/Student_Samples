@@ -1,0 +1,66 @@
+html{
+    height: 100%;
+}
+body{
+    background-size: cover;
+    background-position: center;
+    font-family: Lato;
+    background-color: tan;
+}
+#content{
+    text-align: center;
+    padding-top: 25%;
+}
+.textalign{
+    text-align: center;
+}
+h1, h3{
+    color: orangered;
+    text-align: center;
+}
+h1{
+    font-weight: 700;
+    font-size: 5em;
+}
+h2{
+    font-weight: bold;
+}   
+hr{
+    width: 1100px;
+    border-bottom: 1px solid white;
+}
+form{
+    float:left;
+    margin: 10px;
+}
+.buttonstyle{
+    margin: 10px;
+}
+.left{
+    padding-right: 2em;
+    color: white;
+}
+.title{
+    text-shadow: 3px 2px 0px #fff, 9px 8px 0px rgba(0,0,0,0.15);
+}
+.border{
+    border: 1px solid blue;
+    margin: 5px;
+}
+.footer{
+    margin-top: 5px;
+}
+.margin{
+    padding: 20px 0;
+
+}
+.button{
+    background-color: #f44336;
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+}
